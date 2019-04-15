@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-configuration-files",
+  "version": "1.0.0",
+  "description": "For configuration-files.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-configuration-files.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-configuration-files"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-configuration-files/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-configuration-files"
+}
