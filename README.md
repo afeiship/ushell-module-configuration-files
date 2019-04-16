@@ -9,4 +9,5 @@ npm i -S afeiship/ushell-module-configuration-files --registry=https://registry.
 ## resources:
 ~~~
 # TODO: BUGGY SCRIPT CAN NOT WORK
+https://stackoverflow.com/questions/55699353/wget-glob-files-be-encode
 ~~~
